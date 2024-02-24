@@ -1,4 +1,3 @@
-```
 # Cat Fact Generator
 
 A simple React application that generates random cat facts using the Cat Fact API (https://catfact.ninja/).
@@ -32,9 +31,8 @@ A simple React application that generates random cat facts using the Cat Fact AP
 ## Usage
 
 1. Run the application:
-   ```bash
-   npm start
-   ```
+  npm start
+
 
 2. Open your browser and navigate to http://localhost:3000.
 
